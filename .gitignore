@@ -1,0 +1,6 @@
+# Temporary directories
+.cache/
+build/
+
+# Object Files
+*.o
